@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+     <h2>Страница 2 </h2>
+
+    
+<p><a href="page1.html">перейти на страницу 1</a></p>
+<p><a href="page3.html">перейти на страницу 3</a></p>
+<p><a href="index.html">Главная</a></p>
+
+</body>
+</html>
